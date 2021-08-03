@@ -1,0 +1,4 @@
+[database]
+username = yip
+password = yip
+database = PYTHON_FIRST
